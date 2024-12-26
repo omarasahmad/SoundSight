@@ -1,0 +1,28 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.env
+.venv
+venv/
+
+# ---- Windows System ----
+.DS_Store
+Thumbs.db
+
+# ---- Visual Studio Code ----
+.vscode/
+
+# ---- Unity ----
+Library/
+Temp/
+Build/
+Builds/
+Packages/
+Obj/
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.user
