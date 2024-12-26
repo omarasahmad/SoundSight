@@ -1,4 +1,4 @@
-# SoundSightAR
+# SoundSight
 
 ## Core Goal
 The primary goal is to build a system that translates real-time auditory information
