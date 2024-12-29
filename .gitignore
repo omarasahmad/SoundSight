@@ -31,3 +31,8 @@ UserSettings/
 node_modules/
 npm-debug.log
 yarn-error.log
+
+
+# Data
+data/
+data_preprocessed/
