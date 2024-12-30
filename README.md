@@ -1,8 +1,8 @@
 # SoundSight
 
-SoundSight is a PC-based sound classification system that uses a Convolutional Neural Network (CNN) to classify sounds in real-time. This project is designed to recognize sounds such as sirens, footsteps, laughter, and more, leveraging machine learning and audio data processing.
+**Build The World**
 
-- (Dolby Laboratories Challenge)
+SoundSight is a PC-based sound classification system that uses a Convolutional Neural Network (CNN) to classify sounds in real-time. This project is designed to recognize sounds such as sirens, footsteps, laughter, and more, leveraging machine learning and audio data processing.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
