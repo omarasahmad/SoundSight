@@ -28,8 +28,8 @@ import torchaudio.transforms as T
 # -------------------
 SAMPLE_RATE = 16000  # Must match your Phase 3 preprocessing
 NUM_CLASSES = 6      # Adjust based on your categories
-BATCH_SIZE = 16
-EPOCHS = 20          # Increased epochs for better training
+EPOCHS = int(os.environ.get("SOUNDSIGHT_EPOCHS", 20))
+BATCH_SIZE = int(os.environ.get("SOUNDSIGHT_BATCH_SIZE", 16))
 LEARNING_RATE = 0.001
 
 # Path settings
