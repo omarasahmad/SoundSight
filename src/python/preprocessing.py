@@ -5,7 +5,7 @@ import soundfile as sf
 # Constants
 INPUT_DIR = "data"
 OUTPUT_DIR = "data_preprocessed"
-CATEGORIES = ["Siren", "Car_Horn", "Laughing", "Footsteps", "Rain", "Wind"]
+CATEGORIES = ["siren", "car_horn", "laughing", "footsteps", "rain", "wind"]
 TARGET_SAMPLE_RATE = 16000  # Consistent sample rate for all audio files
 DURATION = 5.0  # Expected duration of audio files (in seconds)
 

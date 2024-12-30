@@ -14,24 +14,10 @@ Thumbs.db
 # ---- Visual Studio Code ----
 .vscode/
 
-# ---- Unity ----
-Library/
-Temp/
-Build/
-Builds/
-Packages/
-Obj/
-UserSettings/
-*.csproj
-*.unityproj
-*.sln
-*.user
-
 # ---- Node ----
 node_modules/
 npm-debug.log
 yarn-error.log
-
 
 # Data
 data/
